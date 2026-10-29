@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "title": "Barutyan UJ — Power of Kindness",
+    "description": "Charitable foundation in Armenia helping war survivors, people with disabilities, vulnerable families, orphanages and elderly homes.",
+    "keywords": "charity, Armenia, donation, Barutyan UJ, Power of Kindness"
+  },
+  "nav": {
+    "mission": "Mission",
+    "reports": "Impact",
+    "donate": "Donate",
+    "blog": "News",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "hero": {
+    "brand": "Barutyan UJ",
+    "tagline": "Power of Kindness",
+    "foundation": "Charitable Foundation",
+    "headline": "Kindness that reaches those who need it most",
+    "subtitle": "We support people affected by war, people with disabilities, vulnerable families, orphanages and elderly homes across Armenia.",
+    "ctaDonate": "Donate",
+    "ctaContact": "Contact us"
+  },
+  "mission": {
+    "eyebrow": "Our mission",
+    "title": "Who we help",
+    "lead": "Barutyan UJ exists to turn compassion into concrete help for people who need support today.",
+    "items": {
+      "war": {
+        "title": "War survivors",
+        "text": "Support for people and families affected by conflict — shelter, care and a path back to stability."
+      },
+      "disability": {
+        "title": "People with disabilities",
+        "text": "Practical assistance that improves daily life, dignity and access to essential services."
+      },
+      "families": {
+        "title": "Vulnerable families",
+        "text": "Help for socially unprotected and low-income households facing hardship."
+      },
+      "homes": {
+        "title": "Orphanages & elderly homes",
+        "text": "Ongoing support for children without parental care and for residents of elderly homes."
+      }
+    }
+  },
+  "reports": {
+    "eyebrow": "Impact",
+    "title": "We already help",
+    "lead": "Transparent work, real stories. Reports and case updates will appear here as our programmes grow.",
+    "items": {
+      "one": {
+        "title": "Community support",
+        "text": "First aid packages and food assistance for families in need."
+      },
+      "two": {
+        "title": "Care facilities",
+        "text": "Material support for orphanages and elderly homes."
+      },
+      "three": {
+        "title": "Inclusion",
+        "text": "Targeted help for people with physical disabilities."
+      }
+    },
+    "note": "Detailed financial and activity reports will be published regularly."
+  },
+  "donate": {
+    "eyebrow": "Donate",
+    "title": "Become a benefactor",
+    "lead": "Bank transfers are the simplest way to support our work. Copy the account number for your currency.",
+    "copy": "Copy",
+    "copied": "Copied",
+    "accounts": {
+      "AMD": "Armenian Dram",
+      "USD": "US Dollar",
+      "EUR": "Euro",
+      "RUR": "Russian Ruble"
+    },
+    "hint": "Please include “donation — Barutyan UJ” in the transfer comment when possible."
+  },
+  "blog": {
+    "eyebrow": "News",
+    "title": "Stories & updates",
+    "lead": "Follow our programmes, reports and community stories.",
+    "readMore": "Read more",
+    "all": "All news",
+    "back": "Back to news",
+    "empty": "No posts yet."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Get in touch",
+    "lead": "Questions about our work or how to help? Write to us — we reply personally.",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "addressValue": "Hayrapetyan's Garden, 18 Arno Babajanyan, Garni 2215, Armenia",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "newsletter": "Send me news and blog updates",
+      "submit": "Send message",
+      "sending": "Sending…",
+      "success": "Thank you. Your message has been sent.",
+      "error": "Something went wrong. Please try again or call us.",
+      "required": "This field is required",
+      "invalidEmail": "Enter a valid email"
+    }
+  },
+  "footer": {
+    "tagline": "Charitable foundation · Armenia",
+    "privacy": "Privacy policy",
+    "rights": "All rights reserved."
+  },
+  "privacy": {
+    "title": "Privacy policy",
+    "updated": "Last updated: October 2026",
+    "sections": {
+      "intro": {
+        "title": "Introduction",
+        "text": "Barutyan UJ (“we”) respects your privacy. This page explains what data we collect on our website and why."
+      },
+      "form": {
+        "title": "Contact form",
+        "text": "When you send a message we process your name, email and message content to respond. If you opt in to news, we store your email to send updates about our work and blog posts. You can unsubscribe by emailing us."
+      },
+      "analytics": {
+        "title": "Analytics",
+        "text": "We may use Google Analytics and Yandex Metrika to understand how the site is used. These tools may set cookies. You can block cookies in your browser settings."
+      },
+      "contact": {
+        "title": "Contact",
+        "text": "For privacy requests write to mr.alex.abraham2002@mail.ru or call +374 41 277 725."
+      }
+    }
+  }
+}
